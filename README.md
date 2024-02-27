@@ -1,6 +1,3 @@
-# Event-Attendance-System-
-This system is designed to simplify attendance tracking for events held in Delhi. With features tailored for both students and faculty members, this system provides a convenient way to manage attendance records and make updates as needed.
-
 # Event Attendance System
 
 Welcome to the Event Attendance System! This system is designed to simplify attendance tracking for events held in Delhi. With features tailored for both students and faculty members, this system provides a convenient way to manage attendance records and make updates as needed. Built using HTML, PHP, JavaScript, CSS, and MySQL, our goal is to streamline the attendance process and enhance communication between event organizers and participants.
